@@ -2,7 +2,7 @@
 <view class="container" >
   <view class="logo">
     <image class="logo-icon" src="/images/index/index-logo.png" background-size="cover"></image>
-    <text class="logo-title">"无微不至"的借阅伴侣</text>
+    <text class="logo-title">"书香北城"大创计划</text>
   </view>
   <view class="button">
     <view class="loginBtn" bindtap="loginBtnOnClick">登录</view>

@@ -23,10 +23,11 @@ App({
         }
       })
     }
+    
   },
   globalData: {
     userInfo: null,
-    url: "https://bookmate.natapp4.cc/bookMateServer/",
+    url: "https://rhmxuan.cn/bookMateServer/",
     user: "",
     admin: ""
   }
